@@ -24,7 +24,7 @@ hobbies:
     "HomeLabbing"
   ]
 ```
-### 💻 List of Misc Tools - RedHat/Rocky/CentOS
-### 💻 List of Security Tools - RedHat/Rocky/CentOS
+### 💻 List of Misc Tools - RedHat/Rocky/CentOS/AlmaLinux
+### 💻 List of Security Tools - RedHat/Rocky/CentOS/AlmaLinux
 ### 💻 List of Docker / Docker Compose
 ### 💻 List of Ansible Playbooks
