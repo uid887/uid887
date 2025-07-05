@@ -27,7 +27,10 @@ hobbies:
     "HomeLabbing"
   ]
 ```
-### ⚙️ [List of Misc Tools - RedHat/Rocky/CentOS/AlmaLinux](https://github.com/uid887/MiscTools) 
-### 🛡️ [List of Security Tools - RedHat/Rocky/CentOS/AlmaLinux](https://github.com/uid887/SecurityTools)
-### 🐳 [List of Docker / Docker Compose](https://github.com/uid887/Docker)
-### 🅰️ [List of Ansible Playbooks](https://github.com/uid887/Ansible)
+#### [List of Misc Tools - RedHat/Rocky/CentOS/AlmaLinux](https://github.com/uid887/MiscTools) 
+#### [List of Security Tools - RedHat/Rocky/CentOS/AlmaLinux](https://github.com/uid887/SecurityTools)
+#### [List of Docker / Docker Compose](https://github.com/uid887/Docker)
+#### [List of Ansible Playbooks](https://github.com/uid887/Ansible)
+#### [List of Random Tools](https://github.com/uid887/RandomTools)
+ 
+
