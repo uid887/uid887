@@ -1,3 +1,14 @@
+[![](https://img.shields.io/badge/OS-Red%20Hat-ee0000?style=flat-square&logo=redhat&logoColor=white)]()
+[![](https://img.shields.io/badge/OS-Rocky%20Linux-10b981?style=flat-square&logo=rockylinux&logoColor=white)]()
+[![](https://img.shields.io/badge/Shell-Bash-121011?style=flat-square&logo=gnubash&logoColor=white)]()
+[![](https://img.shields.io/badge/Container-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)]()
+[![](https://img.shields.io/badge/Automation-Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)]()
+[![](https://img.shields.io/badge/Lab-Hack%20The%20Box-9FEF00?style=flat-square&logo=hackthebox&logoColor=black)](https://www.hackthebox.com)
+[![](https://img.shields.io/badge/Security-Wazuh-7E1E9C?style=flat-square&logo=wazuh&logoColor=white)](https://wazuh.com)
+[![](https://img.shields.io/badge/Vuln%20Scanner-Nessus-0096D6?style=flat-square&logo=tenable&logoColor=white)](https://www.tenable.com/products/nessus)
+[![](https://img.shields.io/badge/Network-Wireshark-306998?style=flat-square&logo=wireshark&logoColor=white)](https://www.wireshark.org)
+[![](https://img.shields.io/badge/Exploit-Metasploit-000000?style=flat-square&logo=metasploit&logoColor=white)](https://www.metasploit.com)
+
 ```yaml
 name:        Christo Deale "UID887"
 located_in:  Northern Cape, South Africa
@@ -40,10 +51,7 @@ currently_learning:                   hobbies:                     fields_of_int
   </tr>
 </table>
 
-[![](https://img.shields.io/badge/OS-Red%20Hat%20Linux-ee0000?style=flat-square&logo=redhat&logoColor=white)]()
-[![](https://img.shields.io/badge/OS-Rocky%20Linux-10b981?style=flat-square&logo=rockylinux&logoColor=white)]()
-[![](https://img.shields.io/badge/Shell-Bash-121011?style=flat-square&logo=gnubash&logoColor=white)]()
-[![](https://img.shields.io/badge/Scripting-Batch-4B6C4F?style=flat-square&logo=windows&logoColor=white)]()
-[![](https://img.shields.io/badge/Scripting-PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)]()
-
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uid887&show_icons=true&title_color=ab20fd&icon_color=39ff14&text_color=2D96FF&bg_color=151515"></p>
+
+
+
