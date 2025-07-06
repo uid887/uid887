@@ -40,8 +40,6 @@ currently_learning:                   hobbies:                     fields_of_int
   </tr>
 </table>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uid887)](https://github.com/anuraghazra/github-readme-stats)
-
-
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uid887&show_icons=true&title_color=ab20fd&icon_color=39ff14&text_color=2D96FF&bg_color=151515"></p>
 
 
