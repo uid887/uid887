@@ -8,7 +8,7 @@
 focus:   I'm building tools & collections focused on sysadmin tasks, automation &
          infosec with a linux first approach. Mostly RHEL-based ecosystems.
 ```
-#### Proficient
+#### Proficient:
 [![](https://img.shields.io/badge/OS-Rocky%20Linux-10b981?style=flat-square&logo=rockylinux&logoColor=white)]()
 [![](https://img.shields.io/badge/Container-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)]()
 ![Cockpit](https://img.shields.io/badge/-Cockpit-3F51B5?logo=cockpit&logoColor=white)
@@ -29,25 +29,23 @@ focus:   I'm building tools & collections focused on sysadmin tasks, automation 
 [![Tailscale](https://img.shields.io/badge/-Tailscale-4A90E2?logo=tailscale&logoColor=white)](https://tailscale.com/)
 [![WireGuard](https://img.shields.io/badge/-WireGuard-88171A?logo=wireguard&logoColor=white)](https://www.wireguard.com/)
 
-#### Currently Learning
+#### Currently Learning:
 [![](https://img.shields.io/badge/OS-Red%20Hat-ee0000?style=flat-square&logo=redhat&logoColor=white)]()
 [![](https://img.shields.io/badge/Automation-Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)]()
 [![](https://img.shields.io/badge/Security-Wazuh-7E1E9C?style=flat-square&logo=wazuh&logoColor=white)](https://wazuh.com)
 ![Podman](https://img.shields.io/badge/-Podman-EE0000?logo=podman&logoColor=white)
 ![Linux Hardening](https://img.shields.io/badge/-Linux%20Hardening-2E7D32?logo=linux&logoColor=white)
+![Red Hat Satellite](https://img.shields.io/badge/-Red%20Hat%20Satellite-C2185B?logo=redhat&logoColor=white)
+![Kickstart](https://img.shields.io/badge/-Kickstart-37474F?logo=redhat&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 
-#### Hobbies
+#### Hobbies:
 [![](https://img.shields.io/badge/Lab-Hack%20The%20Box-9FEF00?style=flat-square&logo=hackthebox&logoColor=black)](https://www.hackthebox.com)
 [![](https://img.shields.io/badge/Exploit-Metasploit-000000?style=flat-square&logo=metasploit&logoColor=white)](https://www.metasploit.com)
 ![WiGLE.net](https://img.shields.io/badge/-WiGLE.net-FF6200?logo=wifi&logoColor=white)
 ![OSINT](https://img.shields.io/badge/-OSINT-0078D4?logo=security&logoColor=white)
 
-#### Side Quests
-![Red Hat Satellite](https://img.shields.io/badge/-Red%20Hat%20Satellite-C2185B?logo=redhat&logoColor=white)
-![Kickstart](https://img.shields.io/badge/-Kickstart-37474F?logo=redhat&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FF5722?logo=burpsuite&logoColor=white)
-
+#### Repository of scripts / tools for system tasks:
 <table>
   <tr>
     <td>
