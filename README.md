@@ -73,4 +73,4 @@ focus:   I'm building tools & collections focused on sysadmin tasks, automation 
   </tr>
 </table>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uid887&layout=compact&theme=dark&size_weight=0&count_weight=1)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uid887&layout=compact&theme=dark&size_weight=1&count_weight=1&cache_seconds=1800)
