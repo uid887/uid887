@@ -11,6 +11,7 @@ focus:   I'm building tools & collections focused on sysadmin tasks, automation 
 #### Proficient:
 [![](https://img.shields.io/badge/OS-Rocky%20Linux-10b981?style=flat-square&logo=rockylinux&logoColor=white)]()
 [![](https://img.shields.io/badge/Container-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)]()
+![Docker Compose](https://img.shields.io/badge/docker-compose-blue)
 ![Cockpit](https://img.shields.io/badge/-Cockpit-3F51B5?logo=cockpit&logoColor=white)
 [![](https://img.shields.io/badge/Shell-Bash-121011?style=flat-square&logo=gnubash&logoColor=white)]()
 [![](https://img.shields.io/badge/Vuln%20Scanner-Nessus-0096D6?style=flat-square&logo=tenable&logoColor=white)](https://www.tenable.com/products/nessus)
