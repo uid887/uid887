@@ -50,10 +50,10 @@ focus:   I'm building tools & collections focused on sysadmin tasks, automation 
 <table>
   <tr>
     <td>
-      <a href="https://github.com/uid887/MiscTools">List of Misc Tools - RedHat/Rocky/CentOS/AlmaLinux</a>
+      <a href="https://github.com/uid887/MiscTools">List of RHEL_Tools - RedHat/Rocky/CentOS/AlmaLinux</a>
     </td>
     <td>
-      <a href="https://github.com/uid887/SecurityTools">List of Security Tools - RedHat/Rocky/CentOS/AlmaLinux</a>
+      <a href="https://github.com/uid887/SecurityTools">List of RHELSEC_Tools - RedHat/Rocky/CentOS/AlmaLinux</a>
     </td>
    </tr>
  <tr>
